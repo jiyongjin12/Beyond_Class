@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/SungBin/scene/Title.unity
+    guid: d31620538922cbd49aa0c57cddf061c1
+  - enabled: 1
+    path: Assets/SungBin/scene/DemoInGame.unity
+    guid: 49a67eb66e81e474ea97735db95f31af
   m_configObjects: {}
